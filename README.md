@@ -1,2 +1,3 @@
 # odin-recipes
-Hello World
+Odin Project's Foundation course Task
+Using basic html/css create recipes, pages.
